@@ -11,3 +11,7 @@
 - Basic Golang
 - Advanced Golang
 - Cassandra Performance Tuning
+
+# Etc
+
+- Slack channel: https://vandevkr.slack.com 
