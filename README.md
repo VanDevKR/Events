@@ -1,6 +1,7 @@
-# Event SChedule
+# Event Schedule
 
-* Aug 16th, 2017 (Wed) at Pagefreezer HQ.
+* August 16th, 2017 (Wed) at Pagefreezer HQ.
+  * Kick-off meeting
 
 # Seminar Topics
 
