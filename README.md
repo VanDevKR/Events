@@ -1,3 +1,7 @@
+# Event SChedule
+
+* Aug 16th, 2017 (Wed) at Pagefreezer HQ.
+
 # Seminar Topics
 
 - Serverless Architecture/Computing (e.g. AWS Lambda)
