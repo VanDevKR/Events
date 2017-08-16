@@ -12,6 +12,7 @@
 - Advanced Golang
 - Cassandra Performance Tuning
 - Comparison: Go, Rust and Elixir (or more)
+- gRPC (with Go and Python)
 
 # Etc
 
