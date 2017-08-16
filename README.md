@@ -13,6 +13,7 @@
 - Cassandra Performance Tuning
 - Comparison: Go, Rust and Elixir (or more)
 - gRPC (with Go and Python)
+- Developing DSL (Domain Specific Language)
 
 # Etc
 
