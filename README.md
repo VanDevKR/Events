@@ -1,8 +1,5 @@
 # Event Schedule
 
-* August 16th, 2017 (Wed) at Pagefreezer HQ.
-  * Kick-off meeting
-
 # Seminar Topics
 
 - Serverless Architecture/Computing (e.g. AWS Lambda)
@@ -17,4 +14,4 @@
 
 # Etc
 
-- Slack channel: https://vandevkr.slack.com (Please email me to be invited: dw at vandev.ca)
+- Slack channel: https://vandevkr.slack.com
